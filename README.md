@@ -7,8 +7,8 @@ The program handles the following Intricacies:
   4. Determine if there's a winner
   
  ## Installation
- ###Python3.7
+ ### Python3.7
  Install python3 using this [link](https://www.python.org/)
  
  ## Running the Program
- 'python3 tic_toc_toe.py'
+ `python3 tic_toc_toe.py`
