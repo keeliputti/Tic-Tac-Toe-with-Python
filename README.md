@@ -11,4 +11,6 @@ The program handles the following Intricacies:
  Install python3 using this [link](https://www.python.org/)
  
  ## Running the Program
- ```python3 tic_toc_toe.py```
+ ```
+ python3 tic_toc_toe.py
+ ```
