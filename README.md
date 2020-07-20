@@ -1,1 +1,1 @@
-# tic-tac-toe-with-Python
+# Tic-Tac-Toe-with-Python
